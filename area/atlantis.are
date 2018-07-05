@@ -1,0 +1,2253 @@
+#AREADATA
+Name        Jaromir Atlantis~
+Builders    None~
+VNUMs       8100 8199
+Security    9
+Recall      0
+End
+
+
+
+#MOBILES
+#8100
+fisherman man~
+the Fisherman~
+A Fisherman is fishing here.
+~
+A Fisherman is here fighting with his fish and trying to catch more. His face
+is hidden by his cape but you can see his glowing eyes staring at you. He
+looks very dangerous, however you can't see if he's very strong.
+~
+524423 33554944 0 S
+540 0 0 2d10+170 2d5+3
+0 0
+0 0 1
+#8101
+fish~
+the Fish~
+A fish is swimming in the water.
+~
+This is a sweet little fish with one BIG mouth. His teeth are terribly strong,
+trained by shark-attacks. How you would love to see it fight.
+~
+524417 134742016 300 S
+211 0 0 2d7+21 1d5+0
+0 0
+0 0 0
+#8102
+sea-horse horse~
+the Sea-horse~
+A sea-horse is playing here.
+~
+Ooooh, how sweeeeeet!!!.
+~
+524293 134742016 1000 S
+257 0 0 2d7+46 1d5+1
+0 0
+0 0 1
+#8103
+king neptune~
+#PKing #RKalos#n~
+#PKing #RKalos#n sits here, eyes focused on you.
+~
+Ahh, King Kalos, no man has greater authority than he.  Kalos is an old king, eyes
+shining with divine wisdom and insight.  His knowledge of physical fighting and
+magic alike have always been with him.
+~
+524291 37233320 1000 S
+5999 0 0 25d10+3000 8d4+16
+0 0
+0 0 1
+#8104
+maid~
+the King's maid~
+A beautiful maid stands here, serving the king.
+~
+Your eyes fall upon a beautiful maid in service of the #pking#n.  She is treated
+well despite her slave-like state.
+~
+524291 134217728 1000 S
+797 0 0 4d10+360 4d4+5
+0 0
+0 0 2
+#8105
+shell blue glittering~
+the Shell~
+A dirty blue glittering Shell is lying here.
+~
+This is, after close examination, a very UGLY shell, just wanting to get 
+killed. It's so VERY VERY weak that you could sacrifice it alive. Oh would 
+you love to kill the shell.
+~
+524323 0 1000 S
+249 0 0 2d7+46 1d5+1
+0 0
+0 0 0
+#8106
+treasurer~
+the Treasurer~
+The Treasurer is standing here begging for money.
+~
+The treasurer looks very poor. His face is made of sadness for wanting more
+money. He has to take care of all of King Neptune his money. And believe me
+that IS a WHOLE LOT.
+~
+524421 0 -500 S
+914 0 0 5d10+600 3d7+7
+0 0
+0 0 1
+#8107
+jailer~
+the Jailer~
+The Jailer is sleeping here behind his desk.
+~
+The jailer is here laughing his guts out at the prisoners. He is trying to
+keep them as hungry as possible. He is always doing push-ups. That is why he
+looks so strong. Be careful he is a very tactical fighter.
+~
+524355 131072 900 S
+914 0 0 5d10+600 3d7+7
+0 0
+0 0 1
+#8108
+captain~
+the #RKalos #CCaptain#n~
+The #CCaptain #7of #RKalos #nis standing here, observing a map
+~
+Watch out. This is BIG trouble. He is looking after the actions of all guards
+in Atlantis. If something goes wrong, which almost never happens, he will be
+there. Be careful he is a very tactical fighter.
+~
+524291 128 1000 S
+1170 0 0 10d10+1100 6d4+10
+0 0
+0 0 1
+#8109
+Guard~
+the #RKalos #yGuard#n~
+A faithful #RKalos #yGuard #nstands here
+~
+The faithful guard of #RKalos#n.  He would never give up his #yOath #nof Guardians.
+These elite soldiers are known to hold the second rank you can reach in #RKalos#n.
+They will react on the first sign of trouble.
+~
+524293 0 1000 S
+792 -3 0 4d10+360 4d4+5
+0 0
+0 0 1
+#8110
+guardian~
+a #RKalos #0G#8u#0a#8r#0d#8i#0a#8n#n~
+A #RKalos #0G#8u#0a#8r#0d#8i#0a#8n#n stands here, protecting the city.
+~
+~
+524291 0 1000 S
+1303 -3 0 3d9+333 2d8+5
+0 0
+0 0 1
+#8111
+prisoner~
+the Prisoner~
+A Prisoner lying here on his bed.
+~
+This used to be a very big man, but now he looks pale and you can count
+his bones. He's got bread and water in his hand and he guards it very well.
+He's here for insulting King Neptune.
+~
+524291 256 -1000 S
+739 0 0 3d9+333 2d8+5
+0 0
+0 0 1
+#8112
+priest~
+a Priest of #RKalos#n stands here, #Chealing #nthe weak.~
+Martinus the priest of Atlantis is standing here.
+~
+This is a very wise man.  He is older than anyone in #RKalos#n with the exception
+of the Sacred One.  His whole life has been spent gathering knowledge, and
+helping the weak.
+~
+524291 136 1000 S
+1318 0 0 15d10+1700 5d6+13
+0 0
+0 0 1
+#8113
+dark dragon~
+the Dark Dragon~
+The giant Dark Dragon is standing here.
+~
+Dark Dragon is a dangerous monster, you should not mock at him if you want
+to live a little longer. He is as strong as the King of Atlantis, Neptune,
+but Dark Dragon abuses his strength. So don't challenge him.
+~
+524289 4352 -1000 S
+725 0 0 3d9+308 2d7+5
+0 0
+0 0 1
+#8114
+empress heather~
+#yE#7m#yp#7r#ye#7s#ys #CHeather#n~
+The beautiful #yE#7m#yp#7r#ye#7s#ys#n, #CHeather#n stands here
+~
+The wife of #pKing #RKalos#n is quite possibly one of the most beautiful woman
+in the world.  She tries her best to server her people by providing them good homes
+and shelter, while hiring sufficient guards to protect them.  She is truly a good empress.
+~
+524289 128 1000 S
+3500 0 0 10d10+1100 6d4+10
+0 0
+0 0 1
+#8115
+elite soldier~
+an #0Elite #RKalos #7Soldier#n~
+An #0Elite #RKalos #7Soldier#n stands here in a battle-hardened stance
+~
+A large advanced tactical soldier stands ready for battle.  He follows every command
+loyally from his dear king.
+~
+524295 128 500 S
+1500 0 0 5d10+550 2d10+7
+0 0
+0 0 1
+#8116
+alchemist drizzt~
+Drizzt the #CA#cl#Cc#ch#Ce#cm#Ci#cs#Ct#n~
+Drizzt the #CA#cl#Cc#ch#Ce#cm#Ci#cs#Ct#n mixes some odd liquids.
+~
+This mage is a small frail man with a long beard.  His hands look very wrinkled.
+He looks very weak but aware of his knowledge of magic.  The spells he creates
+are so #Rdevestating#n, that he could destroy #RKalos#n with his own hand.
+~
+524291 536 1000 S
+1199 0 0 10d10+11300 4d7+41
+0 0
+0 0 1
+#8117
+sophia~
+Sophia~
+Sophia is standing here trying to sell some food and some drinks.
+~
+If you want to talk, don't come here. She talks so fast that if you want to
+say anything you would have to wait forever because she keeps talking and
+talking.
+~
+524291 0 900 S
+747 0 0 3d9+11333 2d8+45
+0 0
+0 0 1
+#8118
+shop keeper~
+a shop keeper~
+A shop keeper stands behind a table, waiting for your order.
+~
+A strong provisioner looks towards you.  He is wearing a very dirty apron.
+~
+524291 0 900 S
+299 0 0 6d12+11778 2d12+48
+0 0
+0 0 1
+#8119
+lance smith blacksmith~
+Lance the #0blacksmith#n~
+Lance the #0blacksmith#n sits here, hammering #8steel#n
+~
+A very nice man, always ready to help you if you ask nicely. If he doesn't
+like you he gets angry very quickly. And if he does, you SHOULD be afraid.
+~
+524291 0 900 S
+199 0 0 6d12+853 4d6+8
+0 0
+0 0 1
+#8120
+bat~
+the Bat~
+A bat is flying here.
+~
+A bat like any other, YOU think.
+~
+524325 34079744 -1000 S
+278 0 0 2d6+60 1d6+1
+0 0
+0 0 1
+#8121
+giant horrifying rat~
+the giant horrifying rat~
+A giant horrifying rat is running around.
+~
+Well this is a strange creature. You have seen rats before, but this is
+ridiculous. You don't recall him being THIS big.
+~
+524291 4096 -1000 S
+743 0 0 3d9+333 2d8+5
+0 0
+0 0 0
+#8122
+thief~
+a short #0thief#n~
+A #0thief #nstands here, eyeing your belongings.
+~
+A small man stands in front of you eyeing your belongings.  You don't need your
+heightened #Rgod-like#n senses to know that this man is obviously a thief.
+~
+524421 0 0 S
+49 0 0 3d9+283 2d7+4
+0 0
+0 0 0
+#8123
+thief~
+a short #0thief#n~
+A #0thief #nstands here, eyeing your belongings.
+~
+A small man stands in front of you eyeing your belongings.  You don't need your
+heightened #Rgod-like#n senses to know that this man is obviously a thief.
+~
+524421 524290 -1000 S
+18 0 0 2d7+121 2d4+2
+0 0
+0 0 1
+#8124
+florist~
+the #pRoyal #nFlorist~
+The #pRoyal #nFlorist stands here, watering the #sf#sl#so#sw#se#sr#ss#n
+~
+This is a man who loves his work, he is all covered in mud and flowers.
+You think if he keeps eating those flowers, he should be very ill very
+soon, but somehow he doesn't.
+~
+524291 0 900 S
+60 0 0 5d10+550 2d10+7
+0 0
+0 0 1
+#8125
+recruit~
+a #RKalos #nrecruit~
+A #RKalos #nrecruit is here, swinging at a practice dummy
+~
+~
+524291 0 0 S
+72 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#8155
+warrior guard ethereal~
+the #0Ethereal #RWarrior#n~
+The #0Ethereal #RWarrior#n guards the #pKing's #ntreasure
+~
+A huge hulking Ethereal Warrior guards the #RKalos #ntreasury!
+~
+524323 128 1000 S
+4500 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#8100
+metal key~
+a metal key~
+A metal key has been left here. It's just screaming 'TAKE ME'.~
+~
+18 1 1
+0 0 0 0
+2 40 0
+E
+key~
+Aaah... a key, come on, USE it.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8101
+sharkbite sword~
+sword Sharkbite~
+A sword everybody dreams of, is lying here.~
+~
+5 1347 8193
+0 5 10 0
+200 14380 0
+A
+18 6
+A
+19 6
+A
+5 -2
+E
+sharkbite sword~
+This is the sword of King Neptune from Atlantis.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8102
+diamond jewel key~
+a key with a diamond jewel~
+A key with a diamond jewel has been left here.~
+~
+18 1 1
+0 0 0 0
+2 260 0
+E
+key~
+Aaah... a key, come on, USE it.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8103
+black key~
+a black key~
+A black key has been left here.~
+~
+18 0 1
+0 0 0 0
+2 260 0
+E
+key~
+Aaah... a key, come on, USE it.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8104
+shield seaweed~
+shield Seaweed~
+A shield named 'Seaweed' has been left here.~
+~
+9 1120 513
+14 11 13 6
+317 11380 0
+A
+13 30
+A
+19 2
+E
+shield seaweed~
+Very strong shield named 'Seaweed'.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8105
+ice crown~
+the Ice Crown~
+A crown made of ice has been left here.~
+~
+9 1217 17
+13 13 15 7
+110 10380 0
+A
+5 2
+E
+crown~
+A crown made of ice, don't ask me why it doesn't melt.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8106
+pair leather shoes~
+leather shoes~
+A pair of leather shoes are lying here.~
+~
+9 1088 65
+13 13 13 9
+127 11380 0
+A
+14 30
+E
+shoes~
+A pair of all fit shoes made of white leather.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8107
+staff control lightning~
+staff of lightning~
+A staff to control lightning is lying here.~
+~
+4 1089 16385
+55 5 5 6
+312 17380 0
+E
+staff lightning~
+One staff to control lightning.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8108
+ring wisdom~
+the Ring of Wisdom~
+The ring of wisdom has been left here.~
+~
+9 1088 3
+11 11 11 3
+11 9380 0
+A
+4 2
+E
+ring~
+One ring of wisdom.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8109
+pile coins~
+a pile of #ygold #ncoins~
+A huge pile of #ygold#n coins of #RKalos#n lie here.~
+~
+20 1 1
+5000 0 0 0
+6 240 0
+E
+pile coins~
+Oooh, you see a lot glittering coins.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8110
+black claw~
+a black claw~
+A very BIG black Claw is lying here.~
+~
+5 532 8193
+0 5 5 3
+250 3390 0
+A
+18 4
+A
+19 4
+E
+black claw~
+This claw is very BIG and it sure looks sharp!
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8112
+mage potion~
+the mage Potion~
+A potion, made by the mage is lying here.~
+~
+10 0 1
+30 56 81 39
+10 650 0
+E
+potion~
+The potion has a small label 'As a giant you will be, the enemy will flee.'.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8113
+green potion~
+a green potion~
+A green potion has been left here.~
+~
+10 0 1
+20 20 21 0
+1 450 0
+E
+potion~
+Hmmmmmm, it looks very magic... try it!
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8114
+unknown potion~
+unknown potion~
+A unknown potion has been left here.~
+~
+10 0 1
+30 16 3 1
+1 8000 0
+E
+potion~
+Well, you see somethings unknown.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8115
+dark brown potion~
+a dark brown potion~
+A dark brown potion is lying here.~
+~
+10 130 1
+20 0 81 1
+1 10000 0
+E
+potion~
+It looks like a delicious potion.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8116
+sandwich~
+a sandwich~
+A delicious looking sandwich has been left here.~
+~
+19 0 1
+10 0 0 0
+1 8 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8117
+sausage~
+a sausage~
+A delicious looking sausage is lying here.~
+~
+19 0 1
+15 15 0 0
+5 11 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8118
+beer~
+a bottle of beer~
+A bottle of beer has been left here, smell.~
+~
+17 0 1
+5 5 1 0
+10 33 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8119
+axe~
+#RLance's #rAxe#n~
+A large sharp axe has been left here.~
+~
+5 1 8193
+0 5 7 3
+310 5300 0
+A
+18 3
+A
+19 5
+E
+axe~
+It's the axe of Samuel from Atlantis.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8120
+spear~
+a #RKalos #nissue spear~
+A #RKalos #nissue spear is lying here~
+~
+5 1 8193
+0 5 5 11
+130 4210 0
+A
+18 2
+A
+19 4
+E
+spear~
+Oooooh... don't touch it, it's so SHARP.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8121
+shell helmet~
+a shell helmet~
+A helmet like a very large shell has been left here.~
+~
+9 2 17
+8 7 8 3
+215 3240 0
+A
+13 10
+A
+17 -10
+E
+helmet shell~
+This is strange, a helmet like a very large shell.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8122
+ring pearl~
+a ring with a pearl~
+A ring with an expensive pearl has been left here.~
+~
+9 1 3
+7 6 7 4
+11 3250 0
+A
+13 1
+A
+24 1
+E
+ring pearl~
+This ring looks very expensive and is glittering like a diamond.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8123
+kalos issue shield~
+a #RKalos #nissue shield~
+A #RKalos #nissue shield lies here~
+~
+9 65 -32255
+7 7 6 3
+310 4240 0
+A
+18 1
+E
+ivory shield~
+This shield looks very strong. You are sure nothing can break it.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8125
+spear~
+a #RKalos #nissue spear~
+A #RKalos #nissue spear is lying here~
+~
+5 1 8193
+0 5 8 11
+350 6330 0
+A
+18 3
+A
+19 6
+E
+spear~
+Oooooh... don't touch it, it's so SHARP.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8126
+necklace glittering pearls~
+a necklace~
+A nice necklace with glittering pearls has been left here.~
+~
+9 1 5
+20 8 8 16
+80 6330 0
+A
+12 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8127
+fishing-rod~
+a fishing-rod~
+A fishing-rod has been left here.~
+~
+13 0 16385
+0 0 0 0
+300 2130 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8128
+pocket knife~
+a pocket knife~
+A sharp looking pocket knife is lying here.~
+~
+5 0 8193
+0 5 5 1
+132 3100 0
+A
+18 2
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8129
+pitchfork~
+a pitchfork~
+A pitchfork is asking to be picked up.~
+~
+5 0 8193
+0 5 6 11
+240 4250 0
+A
+18 2
+A
+19 4
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8130
+sandwich~
+a #RKalos#nsandwich~
+A yummy looking sandwich sits here.~
+~
+19 0 1
+10 10 0 0
+5 11 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8131
+red cape~
+a red cape~
+A red cape has been left here.~
+~
+9 0 5
+7 5 5 1
+30 130 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8140
+potion black~
+a black potion~
+A black potion bubbles while you watch.~
+~
+10 64 16385
+20 28 28 28
+50 3250 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8141
+potion black~
+a black potion~
+A black potion bubbles while you watch.~
+~
+10 64 16385
+20 28 28 0
+50 3250 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8142
+potion black~
+a black potion~
+A black potion bubbles while you watch.~
+~
+10 64 16385
+20 28 0 0
+50 3250 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMS
+#8100
+Beside the sea...~
+You are standing beside the sea. The ground is very mush here. Your feet are
+getting very wet. You can see the waves coming up the ridge, one step foreward
+and you will fall into the sea.
+~
+0 4 6
+E
+note~
+If you are below level 5, please enter, we LOVE blood, YOUR blood!
+~
+D5
+Down is the sea..
+~
+~
+0 -1 8101
+S
+#8101
+The sea~
+You are swimming in the sea. I hope you like water because everywhere you
+see... you see water. And it's really hard swimming with your clothes on.
+~
+0 0 6
+D0
+Still the sea.
+~
+~
+0 -1 8104
+D1
+Even more sea.
+~
+~
+0 -1 8103
+D2
+Even more sea.
+~
+~
+0 -1 8107
+D3
+Even more sea.
+~
+~
+0 -1 8102
+S
+#8102
+The sea~
+You are swimming in the sea. I hope you like water because everywhere you
+see... you see water. And it's really hard swimming with your clothes on.
+~
+0 0 6
+D0
+Even more sea.
+~
+~
+0 -1 8105
+D1
+Even more sea.
+~
+~
+0 -1 8101
+D2
+Even more sea.
+~
+~
+0 -1 8108
+D3
+This is getting boring.
+~
+~
+0 -1 8103
+S
+#8103
+The sea~
+You are swimming in the sea. I hope you like water because everywhere you
+see... you see water. And it's really hard swimming with your clothes on.
+~
+0 0 6
+D0
+Even more sea.
+~
+~
+0 -1 8106
+D1
+Even more sea.
+~
+~
+0 -1 8102
+D2
+Even more sea.
+~
+~
+0 -1 8109
+D3
+Even more sea.
+~
+~
+0 -1 8101
+S
+#8104
+The sea~
+You are swimming in the sea. I hope you like water because everywhere you
+see... you see water. And it's really hard swimming with your clothes on.
+Deep down you see a sunken ship from the late Pirate Weary.
+~
+0 0 6
+E
+ship~
+A rotting ship is lying here, there is a little sign on it.
+~
+E
+sign~
+Go 2x east!
+~
+D0
+Even more sea.
+~
+~
+0 -1 8107
+D1
+Even more sea.
+~
+~
+0 -1 8106
+D2
+Even more sea.
+~
+~
+0 -1 8101
+D3
+Even more sea.
+~
+~
+0 -1 8105
+S
+#8105
+The sea~
+You are swimming in the sea. I hope you like water because everywhere you
+see... you see water. And it's really hard swimming with your clothes on.
+~
+0 0 6
+D0
+Even more sea.
+~
+~
+0 -1 8108
+D1
+Even more sea.
+~
+~
+0 -1 8104
+D2
+Even more sea.
+~
+~
+0 -1 8102
+D3
+Even more sea.
+~
+~
+0 -1 8110
+S
+#8106
+The sea~
+You are swimming in the sea. I hope you like water because everywhere you
+see... you see water. And it's really hard swimming with your clothes on.
+~
+0 0 6
+D0
+Even more sea.
+~
+~
+0 -1 8109
+D1
+You can't see a thing.
+~
+~
+0 -1 8110
+D2
+Even more sea.
+~
+~
+0 -1 8103
+D3
+Even more sea.
+~
+~
+0 -1 8104
+S
+#8107
+The sea~
+You are swimming in the sea. I hope you like water because everywhere you
+see... you see water. And it's really hard swimming with your clothes on.
+~
+0 0 6
+D0
+Even more sea.
+~
+~
+0 -1 8101
+D1
+Even more sea.
+~
+~
+0 -1 8109
+D2
+Even more sea.
+~
+~
+0 -1 8104
+D3
+Even more sea.
+
+~
+~
+0 -1 8108
+S
+#8108
+The sea~
+You are swimming in the sea. I hope you like water because everywhere you
+see... you see water. And it's really hard swimming with your clothes on.
+~
+0 0 6
+D0
+Even more sea.
+~
+~
+0 -1 8102
+D1
+Even more sea.
+~
+~
+0 -1 8107
+D2
+Even more sea.
+~
+~
+0 -1 8105
+D3
+Even more sea.
+~
+~
+0 -1 8109
+S
+#8109
+The sea~
+You are swimming in the sea. I hope you like water because everywhere you
+see... you see water. And it's really hard swimming with your clothes on.
+~
+0 0 6
+D0
+Even more sea.
+~
+~
+0 -1 8103
+D1
+Even more sea.
+~
+~
+0 -1 8108
+D2
+Even more sea.
+~
+~
+0 -1 8106
+D3
+Even more sea.
+~
+~
+0 -1 8107
+S
+#8110
+A Vortex~
+GOING DOWN!!!!!!
+~
+0 8193 6
+D5
+You can't see a thing.
+~
+~
+0 -1 8111
+S
+#8111
+A Vortex~
+GOING DOWN!!!!!!
+~
+0 8193 6
+D5
+You can't see a thing.
+~
+~
+0 -1 8112
+S
+#8112
+A Vortex~
+GOING DOWN!!!!!!
+~
+0 8192 6
+D5
+You can't see a thing.
+~
+~
+0 -1 8113
+S
+#8113
+A Vortex~
+What's this. You have never seen a vortex doing this. There's even a door
+out here, to the north perhaps. You lost track of all directions. There is
+a little note here moving around.
+~
+0 8192 6
+E
+note~
+Look at the Shell, ain't it screaming to get killed?
+~
+D0
+A locked door.
+~
+door~
+0 8100 8114
+S
+#8114
+Entrance to #RKalos#n~
+A large city opens to the north of here.  Guards bustle with activity throughout the
+region, carrying pointed spears and large strong shields.  This town appears to be
+the capital of this country, #RKalos#L.#n
+~
+0 4 0
+E
+board~
+<><><><><><><><><><><><><><><><><>
+<>        W E L C O M E         <>
+<>             I N              <>
+<>       A T L A N T I S        <>
+<><><><><><><><><><><><><><><><><>
+~
+D0
+To the north you see the Atlantis Street.
+~
+~
+0 -1 8115
+S
+#8115
+#RKalos #7Street#n~
+This is the main street of #RKalos#L.  To the north is the town square, while the
+entrance to the city lies open to the south.  Bubbling and fizzling is heard to the
+west within the Alchemist shop.
+~
+0 0 1
+D0
+To the north you see Atlantis Square.
+~
+~
+0 -1 8116
+D1
+To the east you see the Pub.
+~
+~
+0 -1 8137
+D2
+To the south you see the Entrance of Atlantis
+~
+~
+0 -1 8114
+D3
+To the east you see the Potions Shop.
+~
+~
+0 -1 8136
+S
+#8116
+#RKalos #7Square#n~
+You are standing on the #RKalos #LSquare.  To the east lies the crossroads and
+some residential buildings.  Smoke to the northeast suggests the presence of a
+skilled #0blacksmith#L.  Strong #RKalos #Lelite guards line the strees, protecting the
+city from the likes of #Revil#L.
+~
+0 0 1
+E
+plate inscriptions~
+Enjoy yourself in Atlantis. A lot of thanks to Tharsis who helps me writing
+the descriptions of this area.
+                             Jaromir
+~
+D0
+To the north you see Atlantis Street.
+~
+~
+0 -1 8117
+D1
+To the east you see Martinus Street.
+~
+~
+0 -1 8132
+D2
+To the south you see Atlantis Street.
+~
+~
+0 -1 8115
+D3
+To the west you see Martinus Street.
+~
+~
+0 -1 8130
+S
+#8117
+#RKalos #7Street#n~
+This is the main street of #RKalos#L.  To the south you notice the #RKalos#L Square,
+while the palace of #RKalos#L to the north lies protected by an iron gate.  To the
+west is a small house, build by a resident of the city.
+~
+0 0 1
+D0
+To the north you see the gate of Neptune's Palace.
+~
+~
+0 -1 8118
+D2
+To the south you see Atlantis Square.
+~
+~
+0 -1 8116
+D3
+To the west you see a House.
+~
+~
+0 -1 8139
+S
+#8118
+Palace Gates~
+The palace of #RKalos#L is an extremely regal fortress.  The king of #RKalos#L has
+an easy life, surrounded by the top guards and workers.  The tower gates are
+patrolled by several sets of guards, ensuring that nobody unwanted is allowed in.
+~
+0 0 1
+D0
+To the north you see a garden.
+~
+~
+0 -1 8135
+D1
+To the east you see the Guards Office.
+~
+~
+0 -1 8129
+D2
+To the south you see Atlantis Street.
+~
+~
+0 -1 8117
+S
+#8119
+Within the Palace of #RKalos#n~
+You have entered the Palace hall.  Very few people have viewed this hall, except
+for those seeking an audience with the almighty #pKing #7of #RKalos#L.  Although
+you are unexpected, you are treated with respect by the many palace slaves and
+guards.  This is truly a friendly atmosphere.
+~
+0 8 0
+D0
+To the north you see Neptunes Throne.
+~
+~
+0 -1 8120
+D1
+To the east you see the very same hall.
+~
+~
+0 -1 8122
+D2
+To the south you see the garden.
+~
+~
+0 -1 8135
+D3
+To the west you see the kitchen of the palace.
+~
+~
+0 -1 8121
+D4
+Above you is the bedroom.
+~
+~
+0 -1 8126
+S
+#8120
+#7The #pKing's #7Throne#n~
+This is the room where the king receives all his guests.  His throne is made of pure
+gold, you wonder how he could possibly afford it.  Weapons and trophies line
+the walls around him, showing his many victories at battle.  He is an extremely
+dignified #Rpowerful #Lman!
+~
+0 8 0
+D2
+To the south you see the hall.
+~
+~
+0 -1 8119
+S
+#8121
+The Palace Barracks~
+Weapons and armor are stuffed into various places in this room.  Training dummies
+have been set up to provide practice for new recruits.  As you enter the room,
+the gaze of all the inhabitance turn towards you, a look of confusement on their eyes.
+~
+0 8 0
+D1
+To the east you see the hall.
+~
+~
+0 -1 8119
+S
+#8122
+The Hall~
+You are in the east wing of the palace hall.  Everything within the building is crafted
+of #ygold#L, #Cjewels#L, and other valuable stones.  Even the carpet looks valuable.
+A huge #Rwarning sign#L atop the north door catches your attention.
+~
+0 8 0
+E
+sign~
+- #RWARNING:  Those who enter the Treasure Room to the north will be #7Punished#n.
+~
+D0
+To the north you see a heavy door.
+~
+door~
+0 8102 8123
+D1
+To the east you see the store room.
+~
+~
+0 -1 8125
+D2
+To the south you see the dining room.
+~
+~
+0 -1 8124
+D3
+To the west you see the same hall.
+~
+~
+0 -1 8119
+D5
+Below you is the entrance of the jail.
+~
+~
+0 -1 8127
+S
+#8123
+The Treasure Room~
+Wow, you have never seen this much gold all together in one room. This should
+about be ..ehm... 197325668 gold. You can open the door and put just one foot
+in this room, the rest is gold.
+~
+0 8 0
+D2
+To the south you see the hall.
+~
+~
+0 -1 8122
+S
+#8124
+The Dining Room~
+This is the dining hall of #RKalos #pPalace#L.  You see a large table surrounded
+by many chairs, able to seat a multitude of guests.  To the north lies the palace hall.
+~
+0 8 0
+D0
+To the north you see the hall.
+~
+~
+0 -1 8122
+S
+#8125
+The Store Room~
+This is the room where all unused things of the palace is stored. If you
+want anything of value, you would have to search a lifetime and still you
+would not have found anything interesting.
+~
+0 8 0
+D3
+To the west you see the hall.
+~
+~
+0 -1 8122
+S
+#8126
+Neptunes Bedroom~
+This is a private room, you think. It is very silent here and the bed
+in the middle of the room looks defiant. A painting is hanging right above
+the bed, it looks beautiful.
+~
+0 8 0
+E
+painting~
+It's a painting of a pretty woman, but you don't no who.
+~
+D5
+Below you, you see the hall.
+~
+~
+0 -1 8119
+S
+#8127
+Entrance to the Jail~
+Atlantis is a peaceful country, it doesn't accept criminals. If you
+look around here, you see concrete walls and a concrete floor. You are sure it
+is not nice to be here. Still the jailer is working here, aaahmm.... working???
+To the west you see a barred door to the cell.
+~
+0 8 0
+D3
+To the west you see a barred door.
+~
+door~
+0 8103 8128
+D4
+Above you, the hall.
+~
+~
+0 -1 8122
+S
+#8128
+The Cell~
+What are you DOING here, you are not a criminal, are you? This place is made
+for the people here who desecrating the law. In the corner you see a bed, it
+looks very uncomfortable. If the door is not locked, you can go to the east.
+There is a note scratched on the wall.
+~
+0 8 0
+E
+note~
+If you can't escape from here, ask someone to kill the jailer to get the
+cell key. Then he/she can open the barred door from the other side.
+~
+D1
+To the east you see the entrance of the jail.
+~
+door~
+0 8103 8127
+S
+#8129
+The Captain's Quarters~
+All #RKalos#L guards come here together to talk with the Captain about
+the behaviour of the people who are living here.  If something is wrong, the guards
+will decide what actions to take.  Maps and papers lie scattered on walls and tables.
+~
+0 8 0
+E
+wall map~
+You see a map, but you don't understand it.
+~
+D3
+To the east you see the gate of Neptunes palace.
+~
+~
+0 -1 8118
+S
+#8130
+Priest Street~
+This street is named after the many humble #CPriests#L of #RKalos#L.  This city
+holds some of the finest and most skilled priests in the land, known well by their
+excellent #chealing#L #yarts#L.
+~
+0 0 1
+D0
+To the north you see a house.
+~
+~
+0 -1 8140
+D1
+You see the Atlantis Square.
+~
+~
+0 -1 8116
+D2
+You see the Fish Store.
+~
+~
+0 -1 8138
+D3
+You see the Temple of Atlantis.
+~
+~
+0 -1 8131
+S
+#8131
+#7The #CTemple #7of #RKalos#n~
+An aura of relaxation fills you as a skilled priest utters an incanation, healing
+your wounds and battered #Cspirit#L.  A small pool of water lies in the center
+of the room, allowing the travelling adventurers to clean their #Rwounds#L.
+~
+0 9 1
+D1
+You see the Martinus Street.
+~
+~
+0 -1 8130
+S
+#8132
+#RKalos #0Crossroads#n~
+Two roads cross one another here, signifying the ever popular #RKalos#L crossroads.
+The soil and #Gvegetation#L seem somehow #Rb#rl#Ro#ro#Rd#rs#Rt#ra#Ri#rn#Re#rd#L.  You begin to fear for your life.
+To the south lies the entrance to the legendary Temple of Kalos, blessed by
+the many #ysacred #Lgods protecting the lands from evil.
+~
+0 0 1
+D0
+You see the edge of the wood.
+~
+~
+0 -1 8142
+D1
+You see the a cemetery.
+~
+~
+0 -1 8133
+D2
+To the south you see a house.
+~
+~
+0 -1 8141
+D3
+You see the Atlantis Square.
+~
+~
+0 -1 8116
+S
+#8133
+Following the #0Road#n~
+This road leads through the city of #RKalos#L, several small houses lining the road
+itself.  The residing citizens of #RKalos#L seem suprised, perhaps afraid of you
+and quickly step off the path as you near.  Despite the safety of this town...you feel
+some sort of #Rdanger#L.
+~
+0 0 1
+E
+grave~
+If you open this grave you can go down.
+~
+D0
+You see the edge of the wood.
+~
+~
+0 -1 8143
+D3
+You see the Martinus Street.
+~
+~
+0 -1 8132
+D5
+You can just see the tip of your nose.
+~
+grave~
+1 -1 8134
+S
+#8134
+Deep Down~
+OOH...NO, the grave closed when you got here and you can't open it. It's
+very dark inside here and then the smell of those corpses,YUCK. There is only
+one exit, below you.
+~
+0 13 2
+D5
+You can't see a thing.
+~
+~
+0 -1 8144
+S
+#8135
+The Palace Courtyard~
+A nice garden with nice flowers and trees. In the middle is a pond with some
+ducks. The water of the pond looks very dirty, so don't drink it. The ducks
+are giving a terrible noise, but you can still hear the birds singing, how
+peaceful.
+~
+0 4 0
+D0
+You see the hall.
+~
+~
+0 -1 8119
+D2
+You see the gate of Neptunes palace.
+~
+~
+0 -1 8118
+S
+#8136
+The #CA#cl#Cc#ch#Ce#cm#Ci#cs#Ct #7Shop#n~
+You are standing in a strange shop with a magic atmosphere. There are all
+kinds of pots standing on shelves. There's a big counter at the back of the
+room. The ceiling is painted with exciting colours and symbols you will never
+understand the meaning of. You expect they all are some kind of magical spells.
+To the east you can see #RKalos#L street.
+~
+0 8 1
+D1
+You see the Atlantis Street.
+~
+~
+0 -1 8115
+S
+#8137
+The Pub~
+You are standing in the pub. The smell of the sandwiches and sausages is
+making you drool, delicious. In the left corner you see a cooking range with
+some sausage pans. A little note is hanging here. The only exit is back where
+you came from, the west.
+~
+0 8 1
+E
+note~
+If you want to see what we sell, try list!
+~
+D3
+You see the Atlantis Street.
+~
+~
+0 -1 8115
+S
+#8138
+The Provisioner~
+You step inside a small building, the smell of fresh food filling your senses.
+A waiter steps up to you and asks you if you would like anything to eat, an
+exhausted expression on his face.
+~
+0 8 1
+E
+sign~
+If you will see what we sell, try 'list'.
+~
+D0
+You see the Martinus Street.
+~
+~
+0 -1 8130
+S
+#8139
+A House~
+This is one of the houses of #RKalos#L.  It is a very simple house with a roof made
+of reed and a wooden floor.  This house is extremely small and cramped, you would
+hate to live in it.
+~
+0 8 1
+D1
+You see the Atlantis Street.
+~
+~
+0 -1 8117
+S
+#8140
+A House~
+This is one of the houses of #RKalos#L.  It is a very simple house with a roof made
+of reed and a wooden floor.  This house is extremely small and cramped, you would
+hate to live in it.
+~
+0 8 1
+D2
+You see the Martinus Street.
+~
+~
+0 -1 8130
+S
+#8141
+#CH#Lo#Cl#Ly #oCourtyard#n~
+The soil beneath your feet is #Choly#L, sacred grounds.  A large temple lies
+to the east, seemingly abandoned.  #oDead #Gtrees#L sprout from the ground,
+their twisted trunk and branches casting #0shadows #Linto the courtyard below.
+~
+0 8 1
+D0
+You see the Martinus Street.
+~
+~
+0 -1 8132
+D3
+~
+~
+0 0 9501
+S
+#8142
+A Secluded #GPark#n~
+Around you grow #Gt#gr#Ge#ge#Gs#L of various sorts.  This region is one of the 
+only areas in #RKalos#L with living plants.  Small animals and critters can be seen
+within the trees, sharing its protection.
+~
+0 0 3
+E
+oak~
+The oak looks as a king in the wood. You see nothing specials on it.
+~
+D1
+You see the edge of the wood.
+~
+~
+0 -1 8143
+D2
+You see the Martinus Street.
+~
+~
+0 -1 8132
+S
+#8143
+The #0B#8l#0a#8c#0k#8s#0m#8i#0t#8h#n~
+You step into a small cramped blacksmith, the smell of #rheated iron#L filling the air.
+A strong blacksmith sits in a small corner, crafting a stunning weapon for the #RKalos#L
+guards of the town.  Perhaps the blacksmith has something to offer.
+~
+0 0 3
+D2
+You see a cemetery.
+~
+~
+0 -1 8133
+D3
+You see the edge of the wood.
+~
+~
+0 -1 8142
+S
+#8144
+Deep Down~
+You didn't know, Atlantis had such a dreadful place. Another thing you did not
+know is that you could get so scared. There's only one thing on your mind:
+'I got to get out of here! '.
+~
+0 9 2
+D0
+You can't see a thing.
+~
+~
+0 -1 8148
+D2
+You can't see a thing.
+~
+~
+0 -1 8149
+D3
+You can't see a thing.
+~
+~
+0 -1 8145
+D4
+You can't see a thing.
+~
+~
+0 -1 8134
+S
+#8145
+Deep Down~
+You didn't know, Atlantis had such a dreadful place. Another thing you did not
+know is that you could get so scared. There's only one thing on your mind:
+'I got to get out of here! '.
+~
+0 9 2
+D0
+You can't see a thing.
+~
+~
+0 -1 8146
+D1
+You can't see a thing.
+~
+~
+0 -1 8144
+D2
+You can't see a thing.
+~
+~
+0 -1 8150
+S
+#8146
+Deep Down~
+You didn't know, Atlantis had such a dreadful place. Another thing you did not
+know is that you could get so scared. There's only one thing on your mind:
+'I got to get out of here! '.
+~
+0 13 2
+D0
+You can't see a thing.
+~
+~
+0 -1 8147
+D1
+You can't see a thing.
+~
+~
+0 -1 8148
+D2
+You can't see a thing.
+~
+~
+0 -1 8145
+D4
+You can't see a thing.
+~
+~
+0 -1 8128
+S
+#8147
+Deep Down~
+You didn't know, Atlantis had such a dreadful place. Another thing you did not
+know is that you could get so scared. There's only one thing on your mind:
+'I got to get out of here! '.
+~
+0 9 2
+D2
+You can't see a thing.
+~
+~
+0 -1 8146
+S
+#8148
+Deep Down~
+You didn't know, Atlantis had such a dreadful place. Another thing you did not
+know is that you could get so scared. There's only one thing on your mind:
+'I got to get out of here! '.
+~
+0 9 2
+D2
+You can't see a thing.
+~
+~
+0 -1 8144
+D3
+You can't see a thing.
+~
+~
+0 -1 8146
+S
+#8149
+Deep Down~
+You didn't know, Atlantis had such a dreadful place. Another thing you did not
+know is that you could get so scared. There's only one thing on your mind:
+'I got to get out of here! '.
+~
+0 9 2
+D0
+You can't see a thing.
+~
+~
+0 -1 8144
+D3
+You can't see a thing. 
+~
+~
+0 -1 8150
+S
+#8150
+Deep Down~
+You didn't know, Atlantis had such a dreadful place. Another thing you did not
+know is that you could get so scared. There's only one thing on your mind:
+'I got to get out of here!'.
+~
+0 13 2
+D0
+You can't see a thing.
+~
+~
+0 -1 8145
+D1
+You can't see a thing.
+~
+~
+0 -1 8149
+D4
+You can't see a thing.
+~
+~
+0 -1 8116
+S
+#0
+
+
+
+#SPECIALS
+M 8103 spec_cast_undead
+M 8108 spec_guard
+M 8109 spec_guard
+M 8110 spec_guard
+M 8112 spec_cast_adept
+M 8113 spec_breath_gas
+M 8114 spec_cast_cleric
+M 8116 spec_cast_mage
+M 8121 spec_cast_undead
+M 8123 spec_thief
+S
+
+
+
+#RESETS
+M 0 8100 1 8100
+E 0 8127 0 17
+E 0 8131 0 6
+M 0 8101 5 8101
+M 0 8101 5 8103
+M 0 8101 5 8104
+M 0 8102 3 8104
+M 0 8102 3 8105
+M 0 8101 5 8106
+M 0 8102 3 8108
+M 0 8101 5 8109
+M 0 8105 1 8113
+G 0 8100 0
+M 0 8110 2 8114
+E 0 8120 0 16
+E 0 8121 0 6
+E 0 8123 0 11
+G 0 8140 0
+M 0 8110 2 8114
+E 0 8120 0 16
+E 0 8121 0 6
+E 0 8123 0 11
+G 0 8141 0
+M 0 8109 12 8115
+E 0 8120 0 16
+E 0 8121 0 6
+E 0 8123 0 11
+G 0 8141 0
+M 0 8109 12 8115
+E 0 8120 0 16
+E 0 8121 0 6
+E 0 8123 0 11
+G 0 8140 0
+M 0 8109 12 8116
+E 0 8120 0 16
+E 0 8122 0 1
+E 0 8123 0 11
+G 0 8140 0
+M 0 8109 12 8116
+E 0 8120 0 16
+E 0 8122 0 1
+E 0 8123 0 11
+G 0 8141 0
+M 0 8109 12 8118
+E 0 8120 0 16
+E 0 8121 0 6
+E 0 8123 0 11
+G 0 8141 0
+M 0 8109 12 8118
+E 0 8120 0 16
+E 0 8121 0 6
+E 0 8123 0 11
+G 0 8142 0
+M 0 8103 1 8120
+M 0 8104 2 8120
+E 0 8120 0 16
+M 0 8104 2 8120
+E 0 8120 0 16
+M 0 8125 6 8121
+M 0 8115 1 8121
+M 0 8106 1 8122
+G 0 8102 0
+M 0 8155 1 8123
+O 0 8109 0 8123
+M 0 8114 1 8126
+E 0 8126 0 3
+M 0 8107 1 8127
+G 0 8103 0
+M 0 8111 1 8128
+M 0 8108 1 8129
+E 0 8125 0 16
+M 0 8109 12 8130
+E 0 8120 0 16
+E 0 8122 0 1
+E 0 8123 0 11
+G 0 8142 0
+M 0 8109 12 8130
+E 0 8120 0 16
+E 0 8122 0 1
+E 0 8123 0 11
+G 0 8140 0
+M 0 8112 1 8131
+M 0 8109 12 8132
+E 0 8120 0 16
+E 0 8122 0 1
+E 0 8123 0 11
+G 0 8140 0
+M 0 8109 12 8132
+E 0 8120 0 16
+E 0 8122 0 1
+E 0 8123 0 11
+G 0 8141 0
+M 0 8124 1 8135
+E 0 8129 0 16
+M 0 8109 12 8136
+E 0 8120 0 16
+E 0 8122 0 1
+E 0 8123 0 11
+G 0 8141 0
+M 0 8109 12 8136
+E 0 8120 0 16
+E 0 8122 0 1
+E 0 8123 0 11
+G 0 8142 0
+M 0 8116 1 8136
+G 0 8112 0
+G 0 8113 0
+G 0 8114 0
+G 0 8115 0
+M 0 8123 1 8136
+M 0 8117 1 8137
+G 0 8116 0
+G 0 8117 0
+G 0 8118 0
+M 0 8118 1 8138
+E 0 8128 0 16
+G 0 8130 0
+M 0 8122 3 8139
+E 0 8128 0 16
+M 0 8122 3 8140
+E 0 8128 0 16
+M 0 8122 3 8141
+E 0 8128 0 16
+M 0 8119 1 8143
+E 0 8119 0 16
+M 0 8120 3 8144
+M 0 8121 3 8144
+M 0 8120 3 8145
+M 0 8121 3 8146
+M 0 8120 3 8147
+M 0 8113 1 8148
+E 0 8110 0 16
+M 0 8121 3 8150
+S
+
+
+
+#SHOPS
+8116 10 0 0 0 0 105 75 0 23
+8117 19 0 0 0 0 105 40 0 23
+8118 0 0 0 0 0 105 60 0 23
+0
+
+
+
+#$

@@ -1,0 +1,1926 @@
+#AREADATA
+Name        Xkilla/Gremio/Anarchist Tarunia~
+Builders    None~
+VNUMs       25000 25199
+Security    9
+Recall      0
+End
+
+
+
+#MOBILES
+#25000
+Tarunian Guard~
+A Tarunian Guard ~
+A tarunian guard is here guarding the temple.
+~
+A tarunian temple guard stands here.
+~
+983043 128 1000 S
+902 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25001
+Creeper~
+dä\@eeper~
+A six-legged Creeper slids past your feet.
+~
+~
+983041 128 1000 S
+898 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25002
+Test Dummy~
+A Test Dummy~
+A Test Dummy stands here, waiting for you to test it.
+~
+~
+983073 128 0 S
+999999 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25003
+Spider~
+The spider before you is 1000 times bigger than any you've seen before!~
+In front of you stands a 10 foot spider with many eyes.
+~
+~
+1 0 0 S
+132 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#25006
+Temple Dwellar~
+A small Temple Dwellar roams the area in search of food.~
+The small Temple Dweallar stands in front of you at only 4 feet tall.
+~
+~
+1 0 0 S
+912 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25009
+Statue~
+A Statue~
+The Statue seems to have come alive!
+~
+~
+983043 0 0 S
+902 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25010
+Coffin Zombie~
+A Coffin Zombie~
+You see a Zombie standing here that seems to have come back to life from its coffin.
+~
+~
+131107 128 0 S
+894 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25011
+Zombie Skull~
+A Zombie Skull~
+You see a Zombie's Skull scampering around your feet.
+~
+~
+524289 128 0 S
+76 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25014
+Walking Dead~
+A Walking Dead ~
+You notice that a Walking Dead is here, blocking your exit.
+~
+~
+917507 128 0 S
+294 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25016
+Tortured Undead~
+Undead ~
+An Undead man sulks here, seeking a soul to devour.
+~
+~
+1 0 0 S
+129 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25020
+Shadow~
+A Shadow~
+You notice a strange shadow with white glaring eyes moving about the walls.
+~
+~
+524291 128 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25023
+Pentagram Monster~
+A Pentagram Monster~
+As you look around, the pentagram comes alive and dashes towards you!
+~
+~
+3 128 0 S
+890 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25026
+Mental Patient~
+A Mental Patient~
+A Mental Patient is here, stapped in a strait jacket.
+~
+~
+786467 128 0 S
+902 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25028
+Mutant Alligator ~
+A Mutant Alligator~
+You see a Mutant Alligator paddling towards you!
+~
+~
+3 0 0 S
+494 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25029
+Cage Monkey~
+A Cage Monkey~
+You notice one of the cages has broken open, and a Cage Monkey is standing here!
+~
+~
+524291 0 0 S
+897 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25034
+Hall Walker~
+A Hall Walker~
+You see a small Hall Walker wondering around the empty hallways.
+~
+~
+786433 128 0 S
+897 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25037
+Hooker~
+A Hooker~
+A Hooker stands here, shaking her tits.
+~
+~
+524291 0 0 S
+904 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#25038
+Slimy Goo  ~
+A Slimy Goo~
+You spot a Slimy Goo slithering next to the empty throne.
+~
+~
+655363 0 0 S
+899 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#25039
+Morgue Guard~
+A Morgue Guard~
+A Morgue Guard is standing here, guarding the morgue ahead.
+~
+~
+524291 128 0 S
+890 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25041
+Morgue Body~
+A Morgue Body~
+You spot aundead Morgue Body wandering the room.
+~
+~
+393219 0 0 S
+896 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25046
+Morgue Creature~
+A Morgue Creature~
+You see a Morgue Creature here.  Do you suppose he ate all the bodies?
+~
+~
+786435 128 0 S
+898 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25047
+WalkeR ~
+A WalkeR ~
+You notice a WalkeR walking anbout your eyes, and dancing in the shadows.
+~
+~
+524289 128 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#25055
+ImP~
+An ImP~
+A reddish ImP stands here, holding onto a small pitchfork.
+~
+~
+786435 128 0 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25057
+St.PeTeR~
+St.PeTer~
+You see St.PeTeR stands here at his altar at the Black Pearly Gates of Heven.  
+~
+~
+196609 0 1000 S
+899 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25061
+Satanic Child~
+A Satanic Child~
+You see a Satanic Child standing here, refusing to share his reef.
+~
+~
+786435 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25063
+Little Girl ~
+A Little Girl~
+You see a Little Girl aiming her shotgum at you.
+~
+~
+589827 128 0 S
+899 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#25065
+DoG ~
+A DoG~
+You notice a DoG on the side of the road. He has a strange foam from his mouth.
+~
+~
+524291 128 0 S
+901 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25072
+MoRbId MoNk ~
+A MoRbId MoNk ~
+You see a MoRbId MoNk off to the side of the road, engulfing people in flames.
+~
+~
+196611 128 0 S
+909 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25076
+SaTaN's WiFe~
+SaTaN's WiFe~
+SaTaN's WiFe is here, worshipping her husband at an altar.
+~
+~
+3 128 0 S
+667 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#25077
+Arena Clerk~
+An Arena Clerk~
+You see an Arena Clerk standing behind a desk, flipping you off.
+~
+~
+262147 0 0 S
+908 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25084
+The Guardian of Time~
+The Guardian of Time~
+The Guardian of Time is here. He is wearing pure gold armor.
+~
+~
+3 0 0 S
+1005 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25085
+Guardian of Time~
+The Guardian of Time~
+The Guardian of Time is here. He is wearing a Chestplate of pure gold.
+~
+~
+524291 0 0 S
+996 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25086
+Guardian of Water~
+The Guardian of Water~
+The Guardian of Water is here, wearing a shield of silver water.
+~
+~
+524291 0 0 S
+1001 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25087
+Guardian of Fire~
+The Guardian of Fire~
+The Guardian of Fire is standing here, wearing a helm of flames.
+~
+~
+3 128 0 S
+1001 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25088
+The Guardian of Earth~
+The Guardian of Earth~
+The Guardian of Earth
+~
+~
+3 128 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25089
+The Guardian of Past~
+The Guardian of Past~
+The Guardian of Past stands here, holding the stave of the past.
+~
+~
+3 0 0 S
+997 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25090
+The Guardian of Present~
+The Guardian of Present~
+The Guardian of Present is here, holding the staff of the present.
+~
+~
+3 0 0 S
+998 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25091
+The Guardian of Future~
+The Guardian of Future~
+The Guardian of Future stands here, holding the stave to the future.
+~
+~
+3 128 0 S
+995 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25092
+no name~
+The Guardian of Power~
+The Guardian of Power is here, wielding the planets power in his palms.
+~
+~
+3 128 0 S
+972 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25093
+The Guardian of Defense~
+The Guardian of Defense~
+The Guardian of Defense stands here, holding the defense of the planet in his palms.
+~
+~
+3 128 0 S
+996 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25094
+The Guardian of MUD's~
+The Guardian of MUD's~
+The Guardian of MUD's stands here, holding the access to all MUD's.
+~
+~
+524291 128 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25096
+The Guardian of SaTaN~
+The Guardian of SaTaN~
+The Guardian of SaTaN stands here, guarding the almighty SaTaN!
+~
+~
+3 0 0 S
+989 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#25099
+GaWd~
+GaWd~
+GaWd is here.  Nothing is more to say......
+~
+~
+983043 128 0 S
+10001 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#25001
+shield~
+you examine the shield, and notice it is made out of some sort of crystal~
+You notice a strange shield is resting here~
+~
+9 0 0
+0 0 0 0
+10 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMS
+#25000
+Temple of Tarunia~
+You are standing at the entrance to a large temple. At your feet lies a cracked, blood-stained cement floor.
+~
+0 0 0
+D0
+~
+~
+0 0 25001
+S
+#25001
+Temple Hallway~
+You stand in a hallway of stone. To your north you notice a cement door. To your south, you notice the doorway you came in by. 
+~
+0 0 0
+D0
+~
+~
+0 0 25002
+D2
+~
+~
+0 0 25000
+S
+#25002
+Stair Room~
+As you walk into this room, you see a flight of stairs heading down, and a small doorway made of brick to your east
+~
+0 0 0
+D1
+~
+~
+0 0 25003
+D2
+~
+~
+0 0 25001
+D5
+~
+~
+0 0 25004
+S
+#25003
+Storage room~
+All around you lies piles and piles of junk, all of it useless to you. You begin to think your not alone.
+~
+0 0 0
+D3
+~
+~
+0 0 25002
+S
+#25004
+Staircase~
+As you head down a long set of stairs, you look down and notice that some of the cement stairs are borken in half, or cracked.
+~
+0 0 0
+D4
+~
+~
+0 0 25002
+D5
+~
+~
+0 0 25006
+S
+#25006
+End of Staircase~
+As you near the end of the stair case, you take a second to admire the painting of the almighty God of Gods, Xkilla.
+~
+0 0 0
+D0
+~
+~
+0 0 25007
+D4
+~
+~
+0 0 25004
+S
+#25007
+T-Intersection~
+You walk into this dark room, and see the there is light coming from the east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 25009
+D2
+~
+~
+0 0 25006
+D3
+~
+~
+0 0 25008
+S
+#25008
+Another Hallway~
+Yet again you meet with another small hallway. Nothing here seems too odd, except the walls are covered with blood.
+~
+0 0 0
+D0
+~
+~
+0 0 25010
+D1
+~
+~
+0 0 25007
+S
+#25009
+Immortals' Statue Room~
+To your left and right, you see statues of the great Gods'.  Some are of Xkilla, Tanais, Anarchist, SpY, Gremio, and many more immortals.
+~
+0 0 0
+D3
+~
+~
+0 0 25007
+S
+#25010
+Burial Chamber Room 1~
+You walk into a room filled with the stench of the dead. It seems that this room was or still is used as a sacred burial ground for burying the dead.
+~
+0 0 0
+D1
+~
+~
+0 0 25011
+D2
+~
+~
+0 0 25008
+S
+#25011
+Burial Room 2~
+You walk out of the first of a small set of Sacred Burial Rooms, into yet another Burial Room.  Again, a certain smell of death fills the room. 
+~
+0 0 0
+D0
+~
+~
+0 0 25012
+D1
+~
+~
+0 0 25013
+D3
+~
+~
+0 0 25010
+S
+#25012
+Burial Room 4~
+This Burial Room seems different than that of the others.  Instead of coffins, it appears that the desceased have been buried in large steel crates.
+~
+0 0 0
+D1
+~
+~
+0 0 25014
+D2
+~
+~
+0 0 25011
+S
+#25013
+Burial Room 3~
+You walk into another small room filled with coffins and coffins carrying the dead.
+~
+0 0 0
+D0
+~
+~
+0 0 25014
+D3
+~
+~
+0 0 25011
+S
+#25014
+Burial Room 5~
+As you set foot into the last of the Burial Rooms, you quickly notice a strange creature is standing in the middle of the room, blocking your way of exit.
+~
+0 0 0
+D1
+~
+~
+0 0 25015
+D2
+~
+~
+0 0 25013
+D3
+~
+~
+0 0 25012
+S
+#25015
+Alter Room~
+You walk out of the previous room, and thank the Gods for escaping the horrible stench. You look around and notice a large alter in the center of the room.
+~
+0 0 0
+D0
+~
+~
+0 0 25017
+D1
+~
+~
+0 0 25016
+D3
+~
+~
+0 0 25014
+S
+#25016
+Torture Room 1~
+As you step into this room, you see that there are piles of bones in the corners, and torturous machines laying around. The walls and floors are stained with 
+~
+0 0 0
+D3
+~
+~
+0 0 25015
+S
+#25017
+Short Hallway~
+As you come to a small hallway, you notice that there is a long stream of blood heading north.
+~
+0 0 0
+D0
+~
+~
+0 0 25018
+D2
+~
+~
+0 0 25015
+D3
+~
+~
+0 0 25019
+S
+#25018
+Torture Room 2~
+Much as before, your eyes spot yet another torture chamber.  The room spells of blood and the dead.
+~
+0 0 0
+D1
+~
+~
+0 0 25020
+D2
+~
+~
+0 0 25017
+S
+#25019
+Stairs~
+You come in and notice the blackness of this room. You light a torch, and see a set of spiral stairs leading downwards.
+~
+0 0 0
+D1
+~
+~
+0 0 25017
+D5
+~
+~
+0 0 25021
+S
+#25020
+Torture Room 3~
+You walk into the last of the Torture chambers, and you see a small shadow moving about the east wall.
+~
+0 0 0
+D3
+~
+~
+0 0 25018
+S
+#25021
+Spiral Staircase~
+You continue to head down what seems to be a fairly long set of spiral stairs.
+~
+0 0 0
+D4
+~
+~
+0 0 25019
+D5
+~
+~
+0 0 25022
+S
+#25022
+End of Stairs~
+You reach the end of the lengthy staircase, and look for an exit.
+~
+0 0 0
+D0
+~
+~
+0 0 25023
+D4
+~
+~
+0 0 25021
+S
+#25023
+Pentagram Room~
+You now stand in a strange room, with a glowing Pentagram carved into the center of the room.
+~
+0 0 0
+D0
+~
+~
+0 0 25027
+D2
+~
+~
+0 0 25022
+D3
+~
+~
+0 0 25024
+S
+#25024
+Cursed Death hall~
+You walk in from the pentagram room, and start walking down a long hallway of death. All along the walls are images of death and hate.
+~
+0 0 0
+D1
+~
+~
+0 0 25023
+D3
+~
+~
+0 0 25025
+S
+#25025
+Cursed Hall~
+You continue down a hallway of death. To your left and right are pictures of death and grim reality.  You feel a sense of hate......
+~
+0 0 0
+D1
+~
+~
+0 0 25024
+D2
+~
+~
+0 0 25026
+S
+#25026
+White Padded Room~
+You enter from the grim hallway of death, and look around. Around you are the remains of those whom died years ago in this locked up whti e room.
+~
+0 0 0
+D0
+~
+~
+0 0 25025
+S
+#25027
+Bloody Path~
+You travel down a path of blood and guts, and notice that is is getting deeper as you tred forth. You spot light to the north, and west.
+~
+0 0 0
+D0
+~
+~
+0 0 25028
+D2
+~
+~
+0 0 25023
+D3
+~
+~
+0 0 25029
+S
+#25028
+Bloody Hallway~
+You continue down a long hallway filled with blood, which seems to get deeper and deeper as you progress.  You search the room, and notice 2 mutant Alligators
+~
+0 0 0
+D0
+~
+~
+0 0 25030
+D2
+~
+~
+0 0 25027
+S
+#25029
+Cage Room~
+You walk in from the blood-filled hallway, and shake the blood off your feet.  You think your safe, untill you see cages around you, one is broken open!
+~
+0 0 0
+D1
+~
+~
+0 0 25027
+S
+#25030
+Bloody Hallway Again~
+You reach another segment to a long as hell Bloody Hallway!  You now notice that the blood is up to your waist!
+~
+0 0 0
+D0
+~
+~
+0 0 25031
+D2
+~
+~
+0 0 25028
+S
+#25031
+Blood Pool~
+You are now swimming in a pool of blood! Your only exits are to swim north, or west
+~
+0 0 0
+D0
+~
+~
+0 0 25037
+D2
+~
+~
+0 0 25030
+D3
+~
+~
+0 0 25032
+S
+#25032
+Abandoned Room~
+You have entered a small hallway hith exits to only the west and south.
+~
+0 0 0
+D1
+~
+~
+0 0 25031
+D2
+~
+~
+0 0 25033
+D3
+~
+~
+0 0 25034
+S
+#25033
+Circular Room~
+You step into a circular room, and look around.  The room is black except the dim glow of a few lamps hanging on the walls. This room appears to be empty
+~
+0 0 0
+D0
+~
+~
+0 0 25032
+S
+#25034
+Dim Hallway~
+You walk into yet another empty hallway, with the exception of less blood.  It appears odd to you though, that resting to your side is a pile of intestines.
+~
+0 0 0
+D1
+~
+~
+0 0 25032
+D3
+~
+~
+0 0 25035
+S
+#25035
+Right Turn~
+You step out of the short hallway, and enter an emty room with a turn to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 25036
+D1
+~
+~
+0 0 25034
+S
+#25036
+Pre-Thrown Room~
+As you walk into this room, you notice it has been comepletly constructed of bone!  To the north is what seems to be an emty throne room.  
+~
+0 0 0
+D0
+~
+~
+0 0 25038
+D2
+~
+~
+0 0 25035
+D3
+~
+~
+0 0 25039
+S
+#25037
+Strip Joint~
+You step out of the pool of blood, and enter a room with a chick standing naked in the center.  She starts walking towards you, sahking her tits
+~
+0 0 0
+D2
+~
+~
+0 0 25031
+S
+#25038
+Empty Throne Room~
+This room must have been used as a throne room many years ago.  It is currently empty, with the exception of a Slimy Goo slithering next to the unocupied thro
+~
+0 0 0
+D2
+~
+~
+0 0 25036
+S
+#25039
+Entrance to Morgue~
+You enter a room with bones hanging off the walls. You look around and see a sign that reads- "Entrance To Morgue, go NORTH!"
+~
+0 0 0
+D0
+~
+~
+0 0 25040
+D1
+~
+~
+0 0 25036
+S
+#25040
+Morgue Hall~
+This seems to be the Hall to the morgue. To your west is the first to a set of Morgue Rooms.
+~
+0 0 0
+D0
+~
+~
+0 0 25042
+D2
+~
+~
+0 0 25039
+D3
+~
+~
+0 0 25041
+S
+#25041
+Morgue Room 1~
+You step into the first Morgue Room, and look around. The room appears to be empty besides the piled bodies that fill the room. 
+~
+0 0 0
+D1
+~
+~
+0 0 25040
+S
+#25042
+Morgue Hall~
+You step into another empty hall.  Nothing seems too peculiar about this room.
+~
+0 0 0
+D0
+~
+~
+0 0 25044
+D2
+~
+~
+0 0 25040
+D3
+~
+~
+0 0 25043
+S
+#25043
+Morgue Room 2~
+This Morgue Room isnt much different than the first.  There are less bodies in here, though
+~
+0 0 0
+D1
+~
+~
+0 0 25042
+S
+#25044
+Morgue Hall~
+Here is yet ANOTHER hall to the morgue. To the north is another hall, and to your west, another Morgue Room.
+~
+0 0 0
+D0
+~
+~
+0 0 25045
+D2
+~
+~
+0 0 25042
+D3
+~
+~
+0 0 25046
+S
+#25045
+The Last Hall!~
+Yes, heres another fucking hall!  To the west and north are exits from the Morgue.
+~
+0 0 0
+D0
+~
+~
+0 0 25048
+D2
+~
+~
+0 0 25044
+D3
+~
+~
+0 0 25047
+S
+#25046
+Morgue Room 3~
+You step into another room for storing bodies.  The strange is however, there IS no bodies in this room.  There is a creature here, did it eat them?
+~
+0 0 0
+D1
+~
+~
+0 0 25044
+S
+#25047
+Exits~
+You exit the morbid Morgue area, and shut the door behind you.  You look around for an exit, and see one to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 25049
+D1
+~
+~
+0 0 25045
+S
+#25048
+Exits~
+You exit the Morgue...finally!  You now wonder where to go, so you peek around, and see an exit to the west.k<?G
+~
+0 0 0
+D2
+~
+~
+0 0 25045
+D3
+~
+~
+0 0 25049
+S
+#25049
+StairsUp~
+You enter a room with a stairway leading upwards.
+~
+0 0 0
+D1
+~
+~
+0 0 25048
+D2
+~
+~
+0 0 25047
+D4
+~
+~
+0 0 25050
+S
+#25050
+StairsUp~
+These stairs continue Upwards.  Nothing around here, but to your sides you notice more paintings.  One of which is of the almighty Tanais.
+~
+0 0 0
+D4
+~
+~
+0 0 25051
+D5
+~
+~
+0 0 25049
+S
+#25051
+Stairs to Heven~
+You continue up the neverending stairs, with the execption of stopping to read a sign.  The sign reads-"STAIRS TO HEVEN, GOING UP!"
+~
+0 4 0
+D4
+~
+~
+0 0 25052
+D5
+~
+~
+0 0 25050
+S
+#25052
+Stairs to Heven~
+You are no longer walking; the stairs are taking you up by themselves, strange, huh?  You wonder what the hell is "Heven" ?
+~
+0 0 0
+D4
+~
+~
+0 0 25053
+D5
+~
+~
+0 0 25051
+S
+#25053
+Stairs to Heven~
+The stairs continue to lead your way upwards, without the hassle of walking!  You look around, and see black clouds surrounding you.
+~
+0 0 0
+D4
+~
+~
+0 0 25054
+D5
+~
+~
+0 0 25052
+S
+#25054
+End of Stairs  ~
+You step off the now un-moving stairs, and onto a black cloud.  To your amazment, you dont slip through! To you north is what seems to be some gates.
+~
+0 0 0
+D0
+~
+~
+0 0 25055
+D5
+~
+~
+0 0 25053
+S
+#25055
+Cloudy Pathway~
+You follow a short cloudy pathway towards the gates to your north.  You notice an Imp is scampering around.
+~
+0 0 0
+D0
+~
+~
+0 0 25056
+D2
+~
+~
+0 0 25054
+S
+#25056
+Cloudy Path, cont.~
+You continue to follow a short clouded path north.  You see the Black Gates ahead to the north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 25057
+D2
+~
+~
+0 0 25055
+S
+#25057
+Black Pearly Gates to Heven~
+You have finally arrived at the Black Pearly Gates of Heven!  St.PeTeR is standing at a black altar in front of you.
+~
+0 0 0
+D2
+~
+~
+0 0 25056
+D3
+~
+~
+0 0 25058
+S
+#25058
+Cloud Stepping Stones~
+As you leave the Pearly Black Gates, you enter Heven.  All around you is clattered shit.  Not much of what you expected Heven to be, is it?
+~
+0 0 0
+D0
+~
+~
+0 0 25059
+D1
+~
+~
+0 0 25057
+S
+#25059
+Stepping Stones to Entrance~
+You continue to leap from one cloud stone to the next, and slowly make your way to Heven's Entrance.  You look up, and see black Poppy Flowers in the sky.
+~
+0 0 0
+D1
+~
+~
+0 0 25060
+D2
+~
+~
+0 0 25058
+S
+#25060
+Heven's Entrance~
+You finally reach the Entrance to Heven.  You look ahead to the north, and notice satanic children killing and drinking, and smoking weed.
+~
+0 0 0
+D0
+~
+~
+0 0 25061
+D3
+~
+~
+0 0 25059
+S
+#25061
+Streets of Heven~
+You enter Heven, and step onto the "streets".  You look at one of the children smokin a joint, and ask for a puff, he draws a knife, and leaps at you!
+~
+0 0 0
+D1
+~
+~
+0 0 25069
+D2
+~
+~
+0 0 25060
+D3
+~
+~
+0 0 25062
+S
+#25062
+Side Streets~
+You step onto the side streets. You keep your eyes locked on some Little Girls that seem to be carrying shotguns, aimed at YOU!
+~
+0 0 0
+D0
+~
+~
+0 0 25063
+D1
+~
+~
+0 0 25061
+S
+#25063
+Satan's Road~
+You now are on Satan's Road. To yours sides are buildings of Whore Houses, Bars, and Strip Joints.  When does the fun ever end?
+~
+0 0 0
+D0
+~
+~
+0 0 25064
+D2
+~
+~
+0 0 25062
+S
+#25064
+Satan's Road~
+You continue down Satan's Road, still stunned in awe at the mighty buildings at your sides.  The street continues on north.
+~
+0 0 0
+D0
+~
+~
+0 0 25065
+D2
+~
+~
+0 0 25063
+S
+#25065
+Satan's Road ~
+As you continue down Satan's Road, you notice a stray dog to the side of the road.
+~
+0 0 0
+D0
+~
+~
+0 0 25066
+D2
+~
+~
+0 0 25064
+S
+#25066
+Satan's Turn Pike~
+You reach the end of Satan's Road, and no must turn east, onto Satan Ave.
+~
+0 0 0
+D1
+~
+~
+0 0 25068
+D2
+~
+~
+0 0 25065
+S
+#25067
+Entrance to Hel~
+Here you stand, in front of two mighty pillars, with the letters 666 enscribed on them.  To your north is the test of your life.
+~
+0 0 0
+D0
+~
+~
+0 0 25074
+D2
+~
+~
+0 0 25068
+S
+#25068
+North Entrance to Hel~
+You have reached the sacred Entrance to Hel..To the north lies the hardest test you shall be put to- The Almighty 12 Guardians!
+~
+0 0 0
+D0
+~
+~
+0 0 25067
+D1
+~
+~
+0 0 25073
+D2
+~
+~
+0 0 25075
+D3
+~
+~
+0 0 25066
+S
+#25069
+Satan Boule.~
+You start walking down a street.  You look off to the side to read a sign saying-"SATAN BOULEVARDE"
+~
+0 0 0
+D0
+~
+~
+0 0 25070
+D3
+~
+~
+0 0 25061
+S
+#25070
+Satan Boule.~
+You continue walking down Satan Boule.  Off to the sides are cemetaries, with crosses burning everywhere.
+~
+0 0 0
+D0
+~
+~
+0 0 25071
+D2
+~
+~
+0 0 25069
+S
+#25071
+Satan Boule.~
+You are still walking down Satan Boule. You strangely have the craving to kill.....kill.........MUST KILL!!!!!!
+~
+0 0 0
+D0
+~
+~
+0 0 25072
+D2
+~
+~
+0 0 25070
+S
+#25072
+Satan Boule.~
+You continue to walk down Satan Boule.  Off to your left are some morbid monks holding out there hands, and enflaming children on fire.
+~
+0 0 0
+D0
+~
+~
+0 0 25073
+D2
+~
+~
+0 0 25071
+S
+#25073
+Satan Boulevarde Turn Pike~
+You have reached the end of Satan Boulevarde. The only exit is to the west.  You see someone run past you, engulfed in flames.
+~
+0 0 0
+D2
+~
+~
+0 0 25072
+D3
+~
+~
+0 0 25068
+S
+#25074
+Walkway to Guardian Temple~
+You enter the Guardian Temple, and now stand in an empty waiting room. TO the north, lies an open area.
+~
+0 0 0
+D0
+~
+~
+0 0 25077
+D2
+~
+~
+0 0 25067
+S
+#25075
+SaTaN Temple~
+To your south lies SaTaN temple, a small little one room altar room, in which SaTan lives.
+~
+0 0 0
+D0
+~
+~
+0 0 25068
+D2
+~
+~
+0 0 25076
+S
+#25076
+SaTaN's TeMpLe~
+Here lies SaTaN's TeMpLe, Satans home.  It is only one room, with an altar in the middle.  His wife sits in front of it, head bowed.
+~
+0 0 0
+D0
+~
+~
+0 0 25075
+S
+#25077
+Temple Hallway~
+You have reached an abandoned hallway. To your east and west lie empty rooms, and to your north lies the arena entrance.
+~
+0 0 0
+D0
+~
+~
+0 0 25080
+D1
+~
+~
+0 0 25078
+D2
+~
+~
+0 0 25074
+D3
+~
+~
+0 0 25079
+S
+#25078
+Abandoned Room~
+This room is completely empty. You would be surprised if there was even a mouse living in this dank room.
+~
+0 0 0
+D3
+~
+~
+0 0 25077
+S
+#25079
+Abandoned Room~
+This room has only a few chairs scattered about. Some tossed and turned. Nothing else seems to be in existance in here.
+~
+0 0 0
+D1
+~
+~
+0 0 25077
+S
+#25080
+Arena Entrance Stairs~
+You have made it to the Arena Entrance!  Down from here leads to the 12 Almighty Guardians.
+~
+0 0 0
+D2
+~
+~
+0 0 25077
+D5
+~
+~
+0 0 25081
+S
+#25081
+Stairs to Arena~
+These stairs lead to the 12 Almighty Guardians of the galaxy.
+~
+0 0 0
+D4
+~
+~
+0 0 25080
+D5
+~
+~
+0 0 25082
+S
+#25082
+Stairs to Arena~
+You continue down to the Arena of the Guardians
+~
+0 0 0
+D4
+~
+~
+0 0 25081
+D5
+~
+~
+0 0 25083
+S
+#25083
+Stairs to Arena~
+You have reached the end of the stairs, to the north is the Guardian of Galaxy!  
+~
+0 0 0
+D0
+~
+~
+0 0 25084
+D4
+~
+~
+0 0 25082
+S
+#25084
+Arena Room 1~
+~
+0 0 0
+D0
+~
+~
+0 0 25085
+D2
+~
+~
+0 0 25083
+S
+#25085
+Arena Room 2~
+~
+0 0 0
+D0
+~
+~
+0 0 25086
+D2
+~
+~
+0 0 25084
+S
+#25086
+Arena Room 3~
+~
+0 0 0
+D0
+~
+~
+0 0 25087
+D2
+~
+~
+0 0 25085
+S
+#25087
+Arena Room 4~
+~
+0 0 0
+D0
+~
+~
+0 0 25088
+D2
+~
+~
+0 0 25086
+S
+#25088
+The Guardian of Earth~
+~
+0 0 0
+D0
+~
+~
+0 0 25089
+D2
+~
+~
+0 0 25087
+S
+#25089
+Arena Room 5~
+~
+0 0 0
+D0
+~
+~
+0 0 25090
+D2
+~
+~
+0 0 25088
+S
+#25090
+Arena Room 6~
+~
+0 0 0
+D0
+~
+~
+0 0 25091
+D2
+~
+~
+0 0 25089
+S
+#25091
+Arena Room 7~
+~
+0 0 0
+D0
+~
+~
+0 0 25092
+D2
+~
+~
+0 0 25090
+S
+#25092
+Arena Room 8~
+~
+0 0 0
+D0
+~
+~
+0 0 25093
+D2
+~
+~
+0 0 25091
+S
+#25093
+Arena Room 9~
+~
+0 0 0
+D0
+~
+~
+0 0 25094
+D2
+~
+~
+0 0 25092
+S
+#25094
+Arena Room 10~
+~
+0 0 0
+D2
+~
+~
+0 0 25093
+S
+#25095
+Arena Room 11~
+~
+0 0 0
+D0
+~
+~
+0 0 25096
+D2
+~
+~
+0 0 25094
+S
+#25096
+bHallway to GaWd     ~
+You have defeated the mighty Guardians! To the north lies the chamber of GaWd.....Your destiny awaits! 
+ 
+~
+0 4 0
+D0
+~
+~
+0 0 25097
+S
+#25097
+Hallway to GaWd~
+You are walking in a short hallway towards the chamber of GaWd.
+~
+0 4 0
+D0
+~
+~
+0 0 25098
+D2
+~
+~
+0 0 25096
+S
+#25098
+Hallway to Chamber~
+You are standing in the hallway before the Chamber of the almighty GaWd! To the North lies GaWd.
+~
+0 0 0
+D0
+~
+~
+0 0 25099
+D2
+~
+~
+0 0 25097
+S
+#25099
+Chamber of GaWd~
+You have reached the long-awaited, unwittnessed Chamber of GaWd! GaWd is here, upon his throned pedastool, eyeing you.  He is wielding the staff of Earth.
+~
+0 0 0
+D2
+~
+~
+0 0 25098
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 25001 1 25000
+M 0 25000 1 25000
+M 0 25002 1 25000
+M 0 25000 1 25000
+M 0 25000 1 25000
+M 0 25001 1 25001
+M 0 25001 1 25001
+M 0 25003 1 25003
+M 0 25006 1 25006
+M 0 25009 1 25009
+M 0 25009 1 25009
+M 0 25009 1 25009
+M 0 25010 1 25010
+M 0 25010 1 25010
+M 0 25011 1 25011
+M 0 25014 1 25014
+M 0 25016 1 25016
+M 0 25016 1 25016
+M 0 25020 1 25020
+M 0 25020 1 25020
+M 0 25026 1 25026
+M 0 25026 1 25026
+M 0 25028 1 25028
+M 0 25028 2 25028
+M 0 25029 1 25029
+M 0 25034 2 25034
+M 0 25037 1 25037
+M 0 25037 1 25037
+M 0 25037 1 25037
+M 0 25038 1 25038
+M 0 25039 1 25039
+M 0 25041 1 25041
+M 0 25046 1 25046
+M 0 25047 2 25047
+M 0 25055 1 25055
+M 0 25057 1 25057
+M 0 25061 1 25061
+M 0 25061 1 25061
+M 0 25063 2 25062
+M 0 25065 1 25065
+M 0 25072 2 25072
+M 0 25076 1 25076
+M 0 25077 1 25077
+M 0 25084 1 25085
+M 0 25084 1 25085
+M 0 25086 1 25086
+M 0 25087 1 25087
+M 0 25088 1 25088
+M 0 25089 1 25089
+M 0 25089 1 25089
+M 0 25090 1 25090
+M 0 25091 1 25091
+M 0 25092 1 25092
+M 0 25093 1 25093
+M 0 25099 1 25099
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

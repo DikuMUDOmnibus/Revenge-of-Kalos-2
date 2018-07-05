@@ -1,0 +1,249 @@
+#AREADATA
+Name        Drakov   VideoGame Land~
+Builders    Drakov~
+VNUMs       100600 100700
+Security    9
+Recall      0
+End
+
+
+
+#MOBILES
+#100600
+cloud strife~
+Cloud Strife~
+Cloud Strife is standing here doing his famous pose.
+~
+Dont look at my punk, ill keel yah.  
+~
+1572931 35659904 0 S
+4999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#100600
+Buster Sword~
+#0B#8u#7st#8e#0r #CS#cwor#Cd#x~
+The legendary #0B#8u#7st#8e#0r #CS#cwor#Cd#x is here~
+~
+5 323 16385
+24 10 12 3
+70 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100601
+bloody vampire ring~
+#rA bloody Vampire Ring#n~
+There is a dark ring lying on the ground, with blood flooding around it.~
+~
+9 0 3
+16 0 0 16
+2 10000 0
+A
+17 -35
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100602
+bloody blood vampire breastplate~
+#rA bloody Vampire Breastplate#n~
+Blood is splattered on the ground where this vampire breastplate lies.~
+~
+9 0 9
+24 0 0 24
+2 10000 0
+A
+17 -35
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100603
+bloody scimitar vampire~
+#rA bloody vampire scimitar#n~
+A bloody scimitar is stiking into the ground~
+~
+5 0 16385
+17000 25 45 2
+5 0 0
+A
+1 3
+A
+17 -45
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100604
+bloody vampire hook~
+#rA bloody vampire hook#n~
+A hook is stuck into part of someones arm here, bleeding.~
+~
+5 0 16385
+18000 35 45 9
+6 30000 0
+A
+17 -35
+A
+18 25
+A
+19 25
+A
+1 3
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100605
+belt skulls vampire~
+#0a Belt of Skulls#n~
+A belt made from fragments of human skulls dangles from the air, floating.~
+~
+9 0 2049
+25 0 0 25
+3 10000 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMS
+#100600
+Entrance to VideoGame Land~
+This is the entrance to VideoGame Land.  VideoGame Land is full of
+wonderful games from the past present and future.  Dare enter, and you may
+die, or you may find some wonderful items and experience ahead.  At any
+rate, it should be fun!  
+~
+0 8 0
+D0
+~
+~
+0 0 100601
+S
+#100601
+Walking down the Short Hallway of VideoGame Land~
+This is the first hall of VideoGame Land. In the middle of the hall here is a digital sign reading:
+#G<#C------- #7RPGS   |   #7FIGHTING #C-------#G>#x
+~
+0 0 0
+D0
+~
+~
+0 0 100602
+D2
+~
+~
+0 0 100600
+S
+#100602
+End of Hallway of VideoGame Land~
+You come to the end of the hallway, its much like the begining of the hall way except it comes to an end. Theres another digital sign in front of you reading:
+#G<#C------- #7ACTION  |  SPORTS #C-------#G>#x
+~
+0 0 0
+D2
+~
+~
+0 0 100601
+S
+#100603
+The RPG Genre~
+This is the essence of the RPG Genre of video gaming, not to be confused with computer gaming, at any rate before you are exits leading to
+what appears to be areas based on the four best games in the RPG Genre(In Drakov's Opinion)
+#7NORTH#G: #RF#rinal #RF#rantasy #C7#x
+#7SOUTH#G:  #pL#Pe#7ge#Pn#pd #0of #yZ#oelda#x
+#7WEST#G: #GD#gragon #LW#larrior#x
+#7EAST#G: #CS#cecret #0of #LM#lan#La#x
+~
+0 0 0
+D0
+~
+~
+0 0 100604
+S
+#100604
+Final Fantasy 7~
+The main heroes of Final Fantasy 7 stand in this room, posing for the camera.
+You find their existance to be meaningless; and their weapons to be quite helpful.
+Especially that gatling gun that Barrett is wielding in a rather aggressive fashion...after
+all, we all love guns.
+~
+0 8 0
+D2
+~
+~
+0 0 100603
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,288 @@
+#AREADATA
+Name        Necius's Temple~
+Builders    Necius~
+VNUMs       1001000 1002000
+Security    9
+Recall      0
+End
+
+
+
+#MOBILES
+#1001000
+priestess necius~
+#cPriestess of Necius#n~
+#cThe priestess smiles at you as she sees you in the room#n
+~
+~
+65539 680 1000 S
+995 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#1001001
+follower necius~
+#cFollower of Necius#n~
+#cA woman wonders around here, in search of their favorite god.#n
+~
+~
+65 128 1000 S
+604 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#1001002
+follower necius~
+#cFollower of Necius#n~
+#cA man wonders around here, looking for his favorite god#n
+~
+~
+65 0 1000 S
+600 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#1001003
+Smoo~
+¨9^@short description)~
+ÐI^@ic) A gorgeous piece of the moon lies here.~
+A lost soul floats aimlessly here.
+~
+5 680 0 S
+1002 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#1001004
+lost soul~
+A lost soul~
+A lost soul floats aimlessly here.
+~
+~
+278565 552 0 S
+806 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#1001011
+Anarchist~
+west-53-0172.direct.ca~
+´V@corpse of the #RKalos #yGuard#n~
+~
+5 552 0 S
+996 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#1001000
+statue necius crystal~
+#cCrystal Statue of Necius#n~
+There is a #cglowing#n statue made of crystal shaped like Necius.~
+~
+8 64 0
+0 0 0 0
+10 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMS
+#1001000
+Necius's Office~
+The room has so walls and you can see into endless darkness around around
+you.  In the middle is a desk covered in maps and plans sealed with Necius's
+seal of importance.  
+~
+0 1028 0
+S
+#1001001
+Before the Temple of Necius~
+You are before the magnificant Temple of Necius.  It is dedicated to the
+God of Mystery and worshiping him.  There is a crystal statue here shaped to
+look like him made by his followers.  
+~
+0 0 2
+D0
+~
+~
+0 0 1001002
+D1
+~
+~
+0 0 1001004
+D3
+~
+~
+0 0 1001003
+S
+#1001002
+Holy Alter of Mystery~
+You are at the holy alter of mystery where the priestess of Necius does
+her blessings and such.  The room is dimly lit by white candles and the
+walls seem to be made of some sort of crystal that glimmers in the light. 
+You feel at peace here as soft music plays.  
+~
+0 12 0
+D2
+~
+~
+0 0 1001001
+S
+#1001003
+Holy Grass Field~
+The grass here is soft and looks virtually untouched.
+~
+0 0 0
+D1
+~
+~
+0 0 1001001
+S
+#1001004
+Holy Grass Field~
+The grass here is soft and looks virtually untouched.
+~
+0 0 0
+D3
+~
+~
+0 0 1001001
+S
+#1001005
+Entrance to the Mysterious Cave~
+You are at an opening in the mountain and see nothing but a blanket of
+darkness within.  What lies inside?  Only one way to find out...  
+~
+0 4 5
+D5
+~
+~
+0 0 1001006
+S
+#1001006
+Climbing the Mountain~
+You search for foot holds and an easy way to climb the mountain in hopes
+of reaching the top.  
+~
+0 0 5
+D4
+~
+~
+0 0 1001005
+D5
+~
+~
+0 0 1001007
+S
+#1001007
+Climbing the Mountain~
+You search for foot holds and an easy way to climb the mountain in hopes
+of reaching the top.  
+~
+0 4 5
+D4
+~
+~
+0 0 1001006
+D5
+~
+~
+0 0 1001008
+S
+#1001008
+Climbing the Mountain~
+You search for foot holds and an easy way to climb the mountain in hopes
+of reaching the top.  
+~
+0 4 5
+D4
+~
+~
+0 0 1001007
+D5
+~
+~
+0 0 1001009
+S
+#1001009
+Climbing the Mountain~
+You search for foot holds and an easy way to climb the mountain in hopes
+of reaching the top.  
+~
+0 4 5
+D4
+~
+~
+0 0 1001008
+D5
+~
+~
+0 0 1001010
+S
+#1001010
+Base of a Great Rocky Mountain~
+You are at the base of a great rocky mountain.  Maybe you should try
+climbing to see what's up at the top?  
+~
+0 4 4
+D4
+~
+~
+0 0 1001009
+S
+#1001011
+Void of Lost Souls~
+The room lasts forever in darkness and you're surrounded by lost souls.  
+~
+0 8205 10
+D0
+~
+~
+0 0 1001011
+D1
+~
+~
+0 0 1001011
+D2
+~
+~
+0 0 1001011
+D3
+~
+~
+0 0 1001011
+S
+#0
+
+
+
+#SPECIALS
+M 1001003 spec_eater
+M 1001011 spec_eater
+S
+
+
+
+#RESETS
+O 0 1001000 0 1001001
+M 0 1001001 2 1001001
+M 0 1001002 2 1001001
+M 0 1001000 1 1001002
+M 0 1001004 5 1001011
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

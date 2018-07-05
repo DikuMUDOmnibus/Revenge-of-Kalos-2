@@ -1,0 +1,134 @@
+#AREADATA
+Name        Xkilla/Gremio Kalos~
+Builders    None~
+VNUMs       3000 3372
+Security    9
+Recall      0
+End
+
+
+
+#MOBILES
+#3000
+healer sacred one~
+#7The #LS#Ca#Lc#Cr#Le#Cd #7One~
+#7The #LS#Ca#Lc#Cr#Le#Cd #7One#8 stands here, healing the weak.
+~
+~
+3 0 0 S
+300 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#3001
+Zona~
+Zona~
+Zona stands here, yelling at everyone.
+~
+~
+1 0 -1000 S
+4004 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#3050
+Trash~
+trash~
+Trash~
+~
+9 0 5
+0 0 0 0
+1 1000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMS
+#3001
+#ySacred #oGrounds#n~
+The #lcool #Lnight wind #Cchills #Lyou, #Revil #Lis obviously within its twisted form.
+A #ysacred #Lvoice beckons you to the east, offering safety, while #0darker #Lvoices
+call you towards more dangerous directions, attemping to #rc#0o#rr#0r#ru#0p#rt #Lyour decisions.
+~
+0 4 1
+D0
+~
+~
+0 0 3002
+D1
+~
+~
+1 0 9502
+D2
+~
+~
+0 0 3503
+D4
+~
+~
+0 0 3700
+S
+#3002
+#CC#Lh#ca#Lm#cb#Le#cr #Lof #yLight#n~
+The #0dark moon #Lhazes through the midnight sky as you settle within
+this #Rsacred #Lchamber of light.  Howls of wolves and ancient chants
+fill your heightened senses.  The gods spoke of such a chamber as this,
+protecting both the innocent and criminal alike from the threat of #Rviolence#L.
+~
+0 1024 0
+D2
+~
+~
+0 0 3001
+S
+#3003
+Meeting Chamber~
+You step onto a large circle imprinted into the ground.  Ancient runic symbols carved
+into the #8stone #Lwall suggest the area to be some form of meeting place.  Small
+stone chairs lie crudely placed into the soft earth, ancient and forgotten.
+~
+0 0 0
+D0
+~
+~
+0 0 100300
+D2
+~
+~
+0 0 9502
+S
+#0
+
+
+
+#SPECIALS
+M 3000 spec_cast_adept
+M 3001 spec_xkilla
+S
+
+
+
+#RESETS
+O 0 3050 0 3001
+M 0 3000 1 3002
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,129 @@
+#AREADATA
+Name        Portals Xkilla~
+Builders    None~
+VNUMs       9500 9599
+Security    9
+Recall      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9500
+Nearing #7the #PPortals#n~
+Strange #0shadows #Land #8ghosts #Ldance along the walls, calling you forward.
+Your senses tell you that #Rdanger #Llies everywhere now, a horrid feeling
+planting itself within your mind.  To the east lies the legendary #Pportals#L, leading
+to various exciting realms.
+~
+0 1024 0
+D1
+~
+~
+0 -1 9501
+D3
+~
+~
+0 -1 9502
+S
+#9501
+#PPortal #CDome#n~
+You step into a domed room, strange fields of #Cenergy#L surrounding your position.
+A small #Rsign#L lies carved into the wall, beckoning for you to read it. Legends
+speak of such a room as this, able to carry any man or creature to a different plane
+instantly, but only if he chanted the correct words...
+~
+0 0 0
+E
+sign plaque~
+#5The sign seems to be a list of areas.  #4The following are listed:
+#6Timelord, Galaxy, Sphinx, Tarunia, Draconia.#n
+~
+T
+draconia~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2201 0
+T
+galaxy~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 9302 0
+T
+timelord~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2549 0
+T
+tarunia~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 25000 0
+T
+sphinx~
+#$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2652 0
+D1
+~
+~
+0 0 8141
+D3
+~
+~
+0 -1 9500
+S
+#9502
+#7A #0Dim Hallway#n~
+A chilling #0darkness#L surrounds you as you enter this hallway.  Your eyes focus,
+guiding you forward into the unknown.  The smell of #death#L lies rampant everywhere.
+~
+0 0 0
+D0
+~
+~
+0 0 3003
+D1
+~
+~
+0 -1 9500
+D3
+~
+~
+0 -1 3001
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

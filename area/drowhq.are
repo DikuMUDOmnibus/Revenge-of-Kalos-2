@@ -1,0 +1,90 @@
+#AREADATA
+Name        Xkilla   Drow Hq~
+Builders    None~
+VNUMs       100701 100750
+Security    9
+Recall      0
+End
+
+
+
+#MOBILES
+#100701
+Drow Trainer~
+Drow Trainer~
+Drow Trainer
+~
+~
+3 128 1000 S
+999999999 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#100701
+xkilla helmet~
+#0Helmet #lof #CXkilla~
+A strange ancient helmet lays on the ground, a mystic perhaps.~
+~
+9 3 17
+100 0 0 57
+2 100000000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMS
+#100701
+Wu-Tang Spider Pit~
+You are standing in the pit of the spiders, the so called home of the
+drow.  You are surrounded by a swarm of spiders, who aid the drow in combat.
+~
+0 0 0
+D3
+~
+~
+1 0 3001
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 100701 1 100701
+M 0 100701 1 100701
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

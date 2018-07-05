@@ -1,0 +1,272 @@
+#AREADATA
+Name        Spy   Dankmoors~
+Builders    Spy~
+VNUMs       100000 100200
+Security    7
+Recall      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#100000
+Path Into Dankmoors~
+Here is the entrance to the Dankmoors, a gloomy and dark forest that
+turns swampy.  The trail leads south in to the dark and foreboding forest.
+There are many sounds that echo here, giving the forest a very spooking
+feeling.  To the north, a trail leads back to safety.
+~
+0 0 0
+D2
+~
+~
+0 0 100001
+S
+#100001
+Forest Path~
+This is a small forest path that leads deeper into the forest.
+There are many animal and other sounds that echo here.  The path
+goes north out of the forest and the way south leads deeper into it. The
+path grows smaller and thinner as it goes deeper into the forest.
+~
+0 0 0
+D0
+~
+~
+0 0 100000
+D2
+~
+~
+0 0 100002
+S
+#100002
+Forest Path~
+Here the small forest path ends. The way west will take
+one deeper into the gloomy woods. North is the way back to
+the path leading out. The forest continues to grow thicker
+and more quiet giving it a gloomy and eerie feeling.
+~
+0 0 0
+D0
+~
+~
+0 0 100001
+D3
+~
+~
+0 0 100003
+S
+#100003
+Deeper Into The Forest~
+Here the trees grow thick and full.  There is a feeling
+of being watched as you pass through here.  There are many
+soft and deep sounds that echo here. Bright but soft glowing
+eyes peer out from the forest edges. There is room to move
+either east or south.
+~
+0 0 0
+D1
+~
+~
+0 0 100002
+D2
+~
+~
+0 0 100004
+S
+#100004
+Small Forest Path~
+The trail continues here going deeper and deeper into the forest.
+Very little light reaches here, but what does is just enough to 
+see by.  The path leads north, south and west.
+~
+0 0 0
+D0
+~
+~
+0 0 100003
+D2
+~
+~
+0 0 100005
+D3
+~
+~
+0 0 100006
+S
+#100005
+Small Forest Path~
+The trail continues here and leads deeper into the forest.
+Very little light reaches down here but there is enough to
+faintly see.  Many small animal tracks weave across the trail.
+Many small mushrooms grown along the trail. The path leads
+north, south and west.
+~
+0 0 0
+D0
+~
+~
+0 0 100004
+D2
+~
+~
+0 0 100009
+D3
+~
+~
+0 0 100007
+S
+#100006
+Small Forest Path~
+The trail continues to go deeper into the forest.  The
+little bit of sunlight that does find its way down here is
+just enough to faintly see.  There are many small animal tracks
+that weave across the path and many small mushrooms also grow
+along the trail.  The path continues east and south.
+~
+0 0 0
+D1
+~
+~
+0 0 100004
+D2
+~
+~
+0 0 100007
+S
+#100007
+Small Forest Path~
+The trail continues to lead deeper into the forest.  There is
+very little sunlight that reaches down this far, but what little
+light does reach down allows to faintly see.  There are many small
+animal tracks that weave across the trail.  There are many mushrooms
+that grow along the trail.  The trail continues north, east and
+south.
+~
+0 0 0
+D0
+~
+~
+0 0 100006
+D1
+~
+~
+0 0 100005
+D2
+~
+~
+0 0 100008
+S
+#100008
+Small Forest Path~
+The trail continues here and leads deeper into the
+forest. The amount of light that reaches down here is
+just enough to faintly see.  There are many small animal
+tracks that weave across the trail.  There are lots of 
+mushrooms that grow along the trail. The trail goes
+north, south and east.
+~
+0 0 0
+D0
+~
+~
+0 0 100007
+D1
+~
+~
+0 0 100009
+D2
+~
+~
+0 0 100010
+S
+#100009
+Small Forest Path~
+The trail continues to go deeper into the forest. There
+is very little light that makes its way down here, but 
+there is enough to faintly see. There are many animal tracks,
+that weave across the trail.  Many kinds of mushrooms also
+grow along the trail.  The path leads north, south and west.
+~
+0 0 0
+D0
+~
+~
+0 0 100005
+D2
+~
+~
+0 0 100011
+D3
+~
+~
+0 0 100008
+S
+#100010
+Small Forest Path~
+The trail continues to lead deeper into the forest.
+Very little light reaches down here, but there is just
+enough to faintly see. There are many animal tracks that
+weave across the trail.  There are many mushrooms that also
+grow along the trail.  The path continues north and east.
+To the south is the end of the path.
+~
+0 0 0
+D0
+~
+~
+0 0 100008
+D1
+~
+~
+0 0 100011
+S
+#100011
+Small Forest Path~
+The trail continues here and leads deeper into
+the forest.  There is very little light here but there
+is just enough to faintly see.  Many animal tracks weave
+across the trial and there are many mushrooms that
+are growing along the trail.  The trail continues north
+and west.
+~
+0 0 0
+D0
+~
+~
+0 0 100009
+D3
+~
+~
+0 0 100010
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

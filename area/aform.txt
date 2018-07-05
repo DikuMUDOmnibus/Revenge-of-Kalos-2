@@ -1,0 +1,35 @@
+#AREADATA
+Name        (Builder)   (Area name)~
+Builders    None~
+VNUMs       (Lower Vnum) (Upper Vnum)
+Security    9
+Recall      0
+End
+
+
+
+#MOBILES
+#0
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+#RESETS
+S
+
+#SHOPS
+0
+
+
+
+#$
